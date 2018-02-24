@@ -1,0 +1,9 @@
+http://www.sourcefreak.com/2013/06/tibco-ems-sender-and-receiver-in-java/
+
+1) JMS Server URL for the queue
+2) Queue Connection Factory
+3) Queue Name
+4) UserName and Password
+3) SSL is implemented
+
+ 
